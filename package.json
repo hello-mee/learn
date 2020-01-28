@@ -1,0 +1,21 @@
+ {
+  "name": "Test",
+  "description": "Test",
+  "version": "0.0.0",
+  "main": [
+    "me.js"
+    ],
+  "scripts": {
+    "start": [
+     "node asf102.js",
+     "node asf103.js",
+     "node asf104.js",
+     "node asf105.js"
+      ]
+  },
+ "dependencies": {
+    "discord.js": "11.5.0",
+    "enmap": "4.8.7"
+
+  }
+}
