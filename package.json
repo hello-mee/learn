@@ -7,6 +7,7 @@
     ],
   "scripts": {
     "start": [
+     "node username.js"
      "node asf77.js",
      "node asf102.js",
      "node asf103.js",
