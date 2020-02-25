@@ -7,7 +7,7 @@ const client1 = new Discord.Client();
 
 
 
-client1.login(process.env.S1);
+client1.login(process.env.S166);
 
 
 
