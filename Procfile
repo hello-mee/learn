@@ -1,3 +1,4 @@
+workertest: node username.js
 workerasf77: node asf77.js
 workerasf102: node asf102.js
 workerasf103: node asf103.js
